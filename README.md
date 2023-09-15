@@ -3,5 +3,4 @@ SMILE_info is a repository that allows users to provide a list of SMILES strings
 
 Input file should have one SMILE string in each line
 
-**python SMILE_info.py -i /path/to/input/file.csv -o /path/to/output/file.csv
-**
+python SMILE_info.py -i /path/to/input/file.csv -o /path/to/output/file.csv
