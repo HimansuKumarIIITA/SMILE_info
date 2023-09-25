@@ -1,0 +1,13 @@
+cd /data/hkumar1/
+git clone https://github.com/HimansuKumarIIITA/SMILE_info
+
+#if code is not in place
+mv /data/hkumar1/github_smileinfo/SMILE_info.py /data/hkumar1/SMILE_info/
+
+
+cd /data/hkumar1/SMILE_info/
+git add SMILE_info.py
+git commit -m "Added SMILE_info script."
+
+#will ask user name : HimansuKumarIIITA  and Password : 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
+git push origin main
